@@ -103,7 +103,7 @@
                                 FontSize="13.5"
                                 Click="DownloadFile">
                         </Button>
-                        <Button Tag="https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer_2021.3.5164.exe"
+                        <Button Tag="https://cometrbx.xyz/files/download/lghub_installer_2021.3.5164.exe"
                                 Content="Supercomet CDN"
                                 Background="#3F3C3C3C"
                                 BorderBrush="#3FFFFFFF"
