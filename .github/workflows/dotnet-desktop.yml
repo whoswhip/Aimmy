@@ -6,6 +6,7 @@ on:
     branches: [ "Aimmy-V2" ]
     paths:
       - 'Aimmy2/**'
+      - '.github/workflows/dotnet-desktop.yml'
   pull_request:
     branches: [ "Aimmy-V2" ]
     paths-ignore:
@@ -13,6 +14,7 @@ on:
       - 'configs/**'
     paths:
       - 'Aimmy2/**'
+      - '.github/workflows/dotnet-desktop.yml'
 
 jobs:
 
