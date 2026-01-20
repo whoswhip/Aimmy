@@ -4,11 +4,15 @@ name: .NET Core Desktop
 on:
   push:
     branches: [ "Aimmy-V2" ]
+    paths:
+      - 'Aimmy2/**'
   pull_request:
     branches: [ "Aimmy-V2" ]
     paths-ignore:
       - 'models/**'
       - 'configs/**'
+    paths:
+      - 'Aimmy2/**'
 
 jobs:
 
